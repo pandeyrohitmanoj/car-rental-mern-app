@@ -1,5 +1,5 @@
 import axios from 'axios'
-const domain = "http://localhost:8000"
+const domain = "https://chess-mern-1vrp.vercel.app/api"
 
 async function getCarsData(pageNo,type,cityName) {
 
